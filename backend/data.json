@@ -1,0 +1,74 @@
+{
+    "patients": [
+        {
+            "patient_id": "P82a3a10e",
+            "age": 0,
+            "weight": 0.0,
+            "bmi": 0.0,
+            "gender": "string",
+            "known_disease": "string",
+            "allergies": "string",
+            "emergency_type": "string"
+        },
+        {
+            "patient_id": "P7f8016c0",
+            "age": 22,
+            "weight": 55.0,
+            "bmi": 21.5,
+            "gender": "female",
+            "known_disease": "none",
+            "allergies": "peanuts",
+            "emergency_type": "trauma"
+        },
+        {
+            "patient_id": "Pb61f82ce",
+            "age": 22,
+            "weight": 55.0,
+            "bmi": 21.5,
+            "gender": "female",
+            "known_disease": "none",
+            "allergies": "peanuts",
+            "emergency_type": "trauma"
+        },
+        {
+            "patient_id": "Pa22f94e5",
+            "age": 50,
+            "weight": 72.0,
+            "bmi": 22.0,
+            "gender": "male",
+            "known_disease": "high BP",
+            "allergies": "NA",
+            "emergency_type": "stroke"
+        },
+        {
+            "patient_id": "Pcacad8df",
+            "age": 21,
+            "weight": 59.0,
+            "bmi": 20.4,
+            "gender": "female",
+            "known_disease": "hypertension",
+            "allergies": "peanuts",
+            "emergency_type": "trauma"
+        },
+        {
+            "patient_id": "P8c0966e3",
+            "age": 21,
+            "weight": 59.0,
+            "bmi": 20.4,
+            "gender": "female",
+            "known_disease": "hypertension",
+            "allergies": "peanuts",
+            "emergency_type": "trauma"
+        },
+        {
+            "patient_id": "P2bef4f39",
+            "age": 22,
+            "weight": 60.0,
+            "bmi": 20.8,
+            "gender": "male",
+            "known_disease": "blod pressure",
+            "allergies": "NA",
+            "emergency_type": "accident"
+        }
+    ]
+}
