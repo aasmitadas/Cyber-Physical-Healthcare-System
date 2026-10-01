@@ -69,6 +69,46 @@
             "known_disease": "blod pressure",
             "allergies": "NA",
             "emergency_type": "accident"
+        },
+        {
+            "patient_id": "P3564a759",
+            "age": 29,
+            "weight": 68.5,
+            "bmi": 22.4,
+            "gender": "male",
+            "known_disease": "None",
+            "allergies": "Penicillin",
+            "emergency_type": "cardiac"
+        },
+        {
+            "patient_id": "P1f4ef45a",
+            "age": 45,
+            "weight": 78.0,
+            "bmi": 27.0,
+            "gender": "male",
+            "known_disease": "edjtjg",
+            "allergies": "gkytyriyr",
+            "emergency_type": "cardiac_arrest"
+        },
+        {
+            "patient_id": "P20218e13",
+            "age": 40,
+            "weight": 58.0,
+            "bmi": 20.1,
+            "gender": "female",
+            "known_disease": "Migrane",
+            "allergies": "NA",
+            "emergency_type": "accident"
+        },
+        {
+            "patient_id": "P7e4619a9",
+            "age": 22,
+            "weight": 59.0,
+            "bmi": 20.4,
+            "gender": "female",
+            "known_disease": "hypertension",
+            "allergies": "peanuts",
+            "emergency_type": "trauma"
         }
     ]
 }
